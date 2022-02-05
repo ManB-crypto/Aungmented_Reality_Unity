@@ -15,7 +15,7 @@ This  Github teaches you how to setup the Augmented Reality with Unity
   'import an image from your device to act as the base of the Augmented Reality'
   'After that download the database'
   
-** Unity Setup 
+## Unity Setup 
 * To able to use the Vuforia   
   ![Screenshot 2022-02-05 102203](https://user-images.githubusercontent.com/80488842/152625273-babc6cec-d4cc-4ca7-bf3a-8347aa50a176.png)
   'First download an choose the Editor version 2022.1.0b6(BETA)'
@@ -28,7 +28,7 @@ This  Github teaches you how to setup the Augmented Reality with Unity
 
 * After that go to the source folder then dragged the object into the scene.
  
-![Screenshot 2022-02-05 103308](https://user-images.githubusercontent.com/80488842/152625685-bf181c1f-d035-412d-8b9f-068247aa2e89.png)
+  ![Screenshot 2022-02-05 103308](https://user-images.githubusercontent.com/80488842/152625685-bf181c1f-d035-412d-8b9f-068247aa2e89.png)
 
 * In order to include the texture of the object reimport the model into the texture folder
 
@@ -41,6 +41,7 @@ This  Github teaches you how to setup the Augmented Reality with Unity
  * Dragged the ReynaNoTextures under the ImageTarget
  
  ![Screenshot 2022-02-05 103908](https://user-images.githubusercontent.com/80488842/152625861-922634a5-aaa1-4ff6-9056-8bc73645e26a.png)
+ 
   'this is so that the model will appear under the AR object'
   
 ### Example 
