@@ -30,4 +30,22 @@ This  Github teaches you how to setup the Augmented Reality with Unity
  
 ![Screenshot 2022-02-05 103308](https://user-images.githubusercontent.com/80488842/152625685-bf181c1f-d035-412d-8b9f-068247aa2e89.png)
 
+* In order to include the texture of the object reimport the model into the texture folder
+
+  ![Screenshot 2022-02-05 103557](https://user-images.githubusercontent.com/80488842/152625768-076b4334-6027-4aee-bc26-340b86ad0946.png)
+  
+* After that dragged the texture to the Albedo to include the color
+
+ ![Screenshot 2022-02-05 103645](https://user-images.githubusercontent.com/80488842/152625822-0a4b7c8b-2866-4cb7-a470-1d566827f968.png)
+ 
+ * Dragged the ReynaNoTextures under the ImageTarget
+ 
+ ![Screenshot 2022-02-05 103908](https://user-images.githubusercontent.com/80488842/152625861-922634a5-aaa1-4ff6-9056-8bc73645e26a.png)
+  'this is so that the model will appear under the AR object'
+  
+### Example 
+
+![reyna ag](https://user-images.githubusercontent.com/80488842/152625906-ff547349-9d8f-4354-9b36-98ba527d535d.png)
+
+
 
