@@ -22,3 +22,8 @@ This  Github teaches you how to setup the Augmented Reality with Unity
   'Select the 3D core, name your file and create your project'
 * You can refer to the Link setup tutorial = " https://www.youtube.com/watch?v=y7VD7yGwmV4&t=1s " to install your Vuforia 
 
+* To import the object you must first import the file to the Unity folder by dragging the object folder to the asset folder.
+
+![Screenshot 2022-02-05 102959](https://user-images.githubusercontent.com/80488842/152625624-7f07724f-5d19-41c9-b569-66757413b5e7.png)
+
+
