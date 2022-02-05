@@ -24,6 +24,10 @@ This  Github teaches you how to setup the Augmented Reality with Unity
 
 * To import the object you must first import the file to the Unity folder by dragging the object folder to the asset folder.
 
-![Screenshot 2022-02-05 102959](https://user-images.githubusercontent.com/80488842/152625624-7f07724f-5d19-41c9-b569-66757413b5e7.png)
+  ![Screenshot 2022-02-05 102959](https://user-images.githubusercontent.com/80488842/152625624-7f07724f-5d19-41c9-b569-66757413b5e7.png)
+
+* After that go to the source folder then dragged the object into the scene.
+ 
+![Screenshot 2022-02-05 103308](https://user-images.githubusercontent.com/80488842/152625685-bf181c1f-d035-412d-8b9f-068247aa2e89.png)
 
 
