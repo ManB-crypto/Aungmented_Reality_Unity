@@ -1,4 +1,4 @@
-# SimpleAR_Unity
+# Augmented Reality with Unity
 This  Github teaches you how to setup the Augmented Reality with Unity
 
 ### Requirments
